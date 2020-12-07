@@ -3,21 +3,21 @@
 }
 
 .left {
-  background-color:#2196F3;
+  background-color: black;
   padding:20px;
   float:left;
   width:20%; /* The width is 20%, by default */
 }
 
 .main {
-  background-color:#f1f1f1;
+  background-color: green;
   padding:20px;
   float:left;
   width:60%; /* The width is 60%, by default */
 }
 
 .right {
-  background-color:#4CAF50;
+  background-color: black;
   padding:20px;
   float:left;
   width:20%; /* The width is 20%, by default */
